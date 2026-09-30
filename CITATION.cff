@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Schrott
+    given-names: Johannes
+    orcid: https://orcid.org/0000-0003-2689-0876
+  - family-names: Jakubowski
+    given-names: Maxime
+    orcid: https://orcid.org/0000-0002-7420-1337
+  - family-names: Hose
+    given-names: Katja
+    orcid: https://orcid.org/0000-0001-7025-8099
+title: "U-Bahn Wien LPG"
+version: 1.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.1234
+date-released: 2026-09-30
