@@ -1,3 +1,5 @@
+![DOI: 10.5281/zenodo.23060297](https://zenodo.org/badge/DOI/10.5281/zenodo.23060297.svg)
+
 # U-Bahn Wien LPG
 
 This repository contains CSV files and an accompanying Cypher script for the creation of a labeled property graph (LPG) that models the U-Bahn system of the city of Vienna.
