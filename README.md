@@ -1,4 +1,4 @@
-![DOI: 10.5281/zenodo.23060297](https://zenodo.org/badge/DOI/10.5281/zenodo.23060297.svg)
+[![DOI: 10.5281/zenodo.23060296](https://zenodo.org/badge/DOI/10.5281/zenodo.23060296.svg)](https://doi.org/10.5281/zenodo.23060296)
 
 # U-Bahn Wien LPG
 
