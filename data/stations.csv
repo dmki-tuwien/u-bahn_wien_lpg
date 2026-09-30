@@ -1,0 +1,111 @@
+﻿line,abbreviation,name,platform,location
+U1,LO,Oberlaa,high,viaduct
+U1,LN,Neulaa,high,surface
+U1,AL,Alaudagasse,high,surface
+U1,AT,Altes Landgut,high,tunnel
+U1,TO,Troststraße,high,tunnel
+U1,RP,Reumannplatz,high,tunnel
+U1,KE,Keplerplatz,high,tunnel
+U1,SL,Südtiroler Platz – Hauptbahnhof,high,tunnel
+U1,TA,Taubstummengasse,high,tunnel
+U1,KP,Karlsplatz,high,tunnel
+U1,SZ,Stephansplatz,high,tunnel
+U1,SP,Schwedenplatz,high,tunnel
+U1,NP,Nestroyplatz,high,tunnel
+U1,PR,Praterstern,high,tunnel
+U1,VS,Vorgartenstraße,high,tunnel
+U1,DI,Donauinsel,high,viaduct
+U1,KM,Kaisermühlen – Vienna International Centre,high,viaduct
+U1,AD,Alte Donau,high,viaduct
+U1,ZK,Kagran,high,viaduct
+U1,KT,Kagraner Platz,high,tunnel
+U1,RB,Rennbahnweg,high,viaduct
+U1,AK,Aderklaaer Straße,high,viaduct
+U1,GF,Großfeldsiedlung,high,surface
+U1,LU,Leopoldau,high,viaduct
+U2,EE,Seestadt,high,surface
+U2,AN,Aspern Nord,high,viaduct
+U2,HU,Hausfeldstraße,high,surface
+U2,AZ,Lina-Loos-Platz,high,viaduct
+U2,AP,Aspernstraße,high,viaduct
+U2,DP,Donauspital,high,viaduct
+U2,AR,Hardeggasse,high,viaduct
+U2,SD,Stadlau,high,viaduct
+U2,DT,Donaustadtbrücke,high,viaduct
+U2,DM,Donaumarina,high,viaduct
+U2,SW,Stadion,high,viaduct
+U2,KI,Krieau,high,viaduct
+U2,MS,Messe – Prater,high,tunnel
+U2,PR,Praterstern,high,tunnel
+U2,TB,Taborstraße,high,tunnel
+U2,SR,Schottenring,high,tunnel
+U2,SO,Schottentor,high,tunnel
+U2,RH,Rathaus,high,tunnel
+U2,VT,Volkstheater,high,tunnel
+U2,BA,Museumsquartier,high,tunnel
+U2,KP,Karlsplatz,high,tunnel
+U3,OK,Ottakring,high,viaduct
+U3,KR,Kendlerstraße,high,tunnel
+U3,HH,Hütteldorfer Straße,high,tunnel
+U3,JO,Johnstraße,high,tunnel
+U3,SH,Schweglerstraße,high,tunnel
+U3,WS,Westbahnhof,high,tunnel
+U3,GZ,Zieglergasse,high,tunnel
+U3,MA,Neubaugasse,high,tunnel
+U3,VT,Volkstheater,high,tunnel
+U3,HZ,Herrengasse,high,tunnel
+U3,SZ,Stephansplatz,high,tunnel
+U3,SE,Stubentor,high,tunnel
+U3,LA,Landstraße,high,tunnel
+U3,RG,Rochusgasse,high,tunnel
+U3,KN,Kardinal-Nagl-Platz,high,tunnel
+U3,SG,Schlachthausgasse,high,tunnel
+U3,ED,Erdberg,high,viaduct
+U3,AW,Gasometer,high,surface
+U3,PP,Zippererstraße,high,tunnel
+U3,EK,Enkplatz,high,tunnel
+U3,SA,Simmering,high,tunnel
+U4,HF,Hütteldorf,high,viaduct
+U4,OV,Ober St. Veit,high,surface
+U4,UV,Unter St. Veit,high,viaduct
+U4,BR,Braunschweiggasse,high,viaduct
+U4,HI,Hietzing,high,viaduct
+U4,SB,Schönbrunn,high,viaduct
+U4,MH,Meidling Hauptstraße,high,tunnel
+U4,LE,Längenfeldgasse,high,tunnel
+U4,MG,Margaretengürtel,high,viaduct
+U4,PG,Pilgramgasse,high,viaduct
+U4,KG,Kettenbrückengasse,high,viaduct
+U4,KP,Karlsplatz,high,tunnel
+U4,ST,Stadtpark,high,viaduct
+U4,LA,Landstraße,high,tunnel
+U4,SP,Schwedenplatz,high,tunnel
+U4,SR,Schottenring,high,tunnel
+U4,RL,Roßauer Lände,high,viaduct
+U4,FB,Friedensbrücke,high,viaduct
+U4,AU,Spittelau,high,surface
+U4,HS,Heiligenstadt,high,surface
+U6,HT,Siebenhirten,low,surface
+U6,PF,Perfektastraße,low,viaduct
+U6,ES,Erlaaer Straße,low,viaduct
+U6,AE,Alterlaa,low,viaduct
+U6,PW,Am Schöpfwerk,low,viaduct
+U6,TE,Tscherttegasse,low,viaduct
+U6,PH,Bahnhof Meidling,low,surface
+U6,NH,Niederhofstraße,low,tunnel
+U6,LE6,Längenfeldgasse,low,tunnel
+U6,GU,Gumpendorfer Straße,low,viaduct
+U6,WS6,Westbahnhof,low,tunnel
+U6,BU,Burggasse – Stadthalle,low,viaduct
+U6,TS,Thaliastraße,low,viaduct
+U6,JS,Josefstädter Straße,low,viaduct
+U6,AS,Alser Straße,low,viaduct
+U6,MB,Michelbeuern – Allgemeines Krankenhaus,low,viaduct
+U6,WA,Währinger Straße – Volksoper,low,surface
+U6,NS,Nußdorfer Straße,low,viaduct
+U6,AU6,Spittelau,low,viaduct
+U6,JG,Jägerstraße,low,tunnel
+U6,DS,Dresdner Straße,low,tunnel
+U6,HK,Handelskai,low,viaduct
+U6,ND,Neue Donau,low,viaduct
+U6,FL,Floridsdorf,low,tunnel
